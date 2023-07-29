@@ -20,3 +20,14 @@ table tbody tr .css-177gid-MuiTableCell-root{
  table thead tr .css-g9upjm-MuiTableCell-root{
     border-bottom: none;
  }
+
+
+ table .css-wo3ghn-MuiTableCell-root{
+   border-top: 1px solid black;
+border-bottom: none;
+ }
+ table .css-wwu154-MuiTableCell-root{
+   border-top: 1px solid black;
+
+   border-bottom: none;
+    }
